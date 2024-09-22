@@ -1,5 +1,10 @@
 # sortingVisualizer
-A Sorting Visualizer project, which visualizes the Merge Sort algorithm. Built using React and Flask.
+Everest Sort | React.js, Web Animations API 
+
+• Developed an interactive sorting visualizer, EverestSort, to demonstrate 5 major sorting algorithms (Merge, Quick, Heap, Bubble, and Insertion Sort) for 250+ students, using React.js and JavaScript.
+
+• Enhanced learning outcomes for visual learners in DSA classes and the CS club, achieving 90%+ positive
+feedback from peers.
 
 **What the app looks like:**
 <img width="1289" alt="image" src="https://github.com/user-attachments/assets/b207264f-525d-46d9-9233-7d2351ec3bf5">
